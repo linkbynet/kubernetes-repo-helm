@@ -15,6 +15,6 @@ entries:
     sources:
     - https://github.com/linkbynet/postfix-relay-kubernetes
     urls:
-    - https://github.com/linkbynet/kubernetes-repo-helm/postfix-relay-kubernetes-0.1.0.tgz
+    - https://linkbynet.github.io/kubernetes-repo-helm/postfix-relay-kubernetes-0.1.0.tgz
     version: 0.1.0
 generated: "2019-10-03T10:57:07.586913402+02:00"
