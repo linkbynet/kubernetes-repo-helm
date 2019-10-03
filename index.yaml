@@ -1,20 +1,20 @@
 apiVersion: v1
 entries:
-  postfix-relay-kubernetes:
+  kubernetes-relay-smtp:
   - apiVersion: v1
-    appVersion: "0.3"
-    created: "2019-10-03T10:57:07.589517394+02:00"
+    appVersion: "0.4"
+    created: "2019-10-03T15:14:39.68898222+02:00"
     description: A Helm chart for a highly available postfix relay in Kubernetes
-    digest: b0430b3ce0ded43bb2ad3c89bc102f7366145c821bcd6ea3a055c24d84d63827
+    digest: 6d5e1f0d5aa3916ea09a94e5bee118a6b551226230b753747e9d74a20e642f42
     keywords:
     - postfix
     maintainers:
     - email: s.billon@linkbynet.com
       name: sbillon
-    name: postfix-relay-kubernetes
+    name: kubernetes-relay-smtp
     sources:
     - https://github.com/linkbynet/postfix-relay-kubernetes
     urls:
-    - https://linkbynet.github.io/kubernetes-repo-helm/postfix-relay-kubernetes-0.1.0.tgz
-    version: 0.1.0
-generated: "2019-10-03T10:57:07.586913402+02:00"
+    - https://linkbynet.github.io/kubernetes-repo-helm/kubernetes-relay-smtp-0.1.2.tgz
+    version: 0.1.2
+generated: "2019-10-03T15:14:39.686991538+02:00"
