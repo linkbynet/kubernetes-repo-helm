@@ -3,9 +3,9 @@ entries:
   postfix-relay-kubernetes:
   - apiVersion: v1
     appVersion: "0.4"
-    created: "2019-10-03T15:24:12.922842695+02:00"
+    created: "2019-10-03T15:32:11.862724951+02:00"
     description: A Helm chart for a highly available postfix relay in Kubernetes
-    digest: eb09d7130638928101210713f56998428c892ad8c006a0a9e361d75869b9e49a
+    digest: 61fb87486f63a5dc1f15e3766794c61b5652cd4209aa452cf2dc51264afaf1bb
     keywords:
     - postfix
     maintainers:
@@ -17,4 +17,4 @@ entries:
     urls:
     - https://linkbynet.github.io/kubernetes-repo-helm/postfix-relay-kubernetes-0.1.2.tgz
     version: 0.1.2
-generated: "2019-10-03T15:24:12.921420059+02:00"
+generated: "2019-10-03T15:32:11.860415818+02:00"
